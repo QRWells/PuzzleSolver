@@ -1,0 +1,11 @@
+[
+{
+  "directory": "/home/qrwells/code/cpp/PuzzleSolver",
+  "arguments": ["/usr/bin/clang", "-c", "-Qunused-arguments", "-m32", "-fvisibility=hidden", "-fvisibility-inlines-hidden", "-O3", "-std=gnu++20", "-I/home/qrwells/code/cpp/PuzzleSolver/include", "-DROOT", "-DTEST", "-DNDEBUG", "-o", "build/.objs/Solver-Test/windows/x86/release/test/test.cc.obj", "test/test.cc"],
+  "file": "test/test.cc"
+},
+{
+  "directory": "/home/qrwells/code/cpp/PuzzleSolver",
+  "arguments": ["/usr/bin/clang", "-c", "-Qunused-arguments", "-m32", "-fvisibility=hidden", "-fvisibility-inlines-hidden", "-O3", "-std=c++20", "-I/home/qrwells/code/cpp/PuzzleSolver/include", "-DROOT", "-DSRC", "-DNDEBUG", "-o", "build/.objs/PuzzleSolver/windows/x86/release/src/main.cc.obj", "src/main.cc"],
+  "file": "src/main.cc"
+}]
